@@ -1,0 +1,20 @@
+# Personal Task Manager with Pomodoro Timer
+# Python Dependencies
+
+# Note: This project primarily uses Python's built-in libraries
+# Tkinter comes pre-installed with most Python distributions
+
+# For development and testing (optional)
+# pytest>=7.0.0
+# pylint>=2.0.0
+
+# Core dependencies (all built-in)
+# - tkinter (GUI framework)
+# - json (data storage)
+# - datetime (time handling)
+# - threading (timer functionality)
+# - os (file operations)
+
+# No external packages required!
+# If you encounter issues with tkinter on Linux, install it using:
+# sudo apt-get install python3-tk
